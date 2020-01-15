@@ -1,27 +1,27 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
 # compiled output
-/uploadImage/dist
-/uploadImage/tmp
-/uploadImage/out-tsc
+/uploadImage-frontEnd/dist
+/uploadImage-frontEnd/tmp
+/uploadImage-frontEnd/out-tsc
 # Only exists if Bazel was run
-/uploadImage/bazel-out
+/uploadImage-frontEnd/bazel-out
 
 # dependencies
-/uploadImage/node_modules
+/uploadImage-frontEnd/node_modules
 
 # profiling files
-/uploadImage/chrome-profiler-events.json
-/uploadImage/speed-measure-plugin.json
+/uploadImage-frontEnd/chrome-profiler-events.json
+/uploadImage-frontEnd/speed-measure-plugin.json
 
 # IDEs and editors
-/uploadImage/.idea
-/uploadImage/.project
-/uploadImage/.classpath
-/uploadImage/.c9/
-/uploadImage/*.launch
-/uploadImage/.settings/
-/uploadImage/*.sublime-workspace
+/uploadImage-frontEnd/.idea
+/uploadImage-frontEnd/.project
+/uploadImage-frontEnd/.classpath
+/uploadImage-frontEnd/.c9/
+/uploadImage-frontEnd/*.launch
+/uploadImage-frontEnd/.settings/
+/uploadImage-frontEnd/*.sublime-workspace
 
 # IDE - VSCode
 .vscode/*
@@ -32,15 +32,15 @@
 .history/*
 
 # misc
-/uploadImage/.sass-cache
-/uploadImage/connect.lock
-/uploadImage/coverage
-/uploadImage/libpeerconnection.log
-/uploadImagenpm-debug.log
-/uploadImage/yarn-error.log
-/uploadImage/testem.log
-/uploadImage/typings
+/uploadImage-frontEnd/.sass-cache
+/uploadImage-frontEnd/connect.lock
+/uploadImage-frontEnd/coverage
+/uploadImage-frontEnd/libpeerconnection.log
+/uploadImage-frontEnd/npm-debug.log
+/uploadImage-frontEnd/yarn-error.log
+/uploadImage-frontEnd/testem.log
+/uploadImage-frontEnd/typings
 
 # System Files
-/uploadImage/.DS_Store
-/uploadImage/Thumbs.db
+/uploadImage-frontEnd/.DS_Store
+/uploadImage-frontEnd/Thumbs.db
